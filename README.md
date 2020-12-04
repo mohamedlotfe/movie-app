@@ -19,7 +19,6 @@ to display the list of movies. </li>
 ## Development server
 - Move to server folder 
 Run `npm start` for a dev server.
-</br>
 - Move to movie-app folder 
 Run `ng serve` . Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
 </br>
